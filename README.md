@@ -7,8 +7,8 @@
 ![WhatsApp Image 2023-05-17 at 13 21 00](https://github.com/Maaike0904/connecting-people-ui-stack/assets/112861144/9e5acec6-1a27-450c-a78d-3657835ae773)
 
 ## Breakdown
-![WhatsApp Image 2023-05-17 at 13 21 00](https://github.com/Maaike0904/connecting-people-ui-stack/assets/112861144/99c3ca91-b172-4881-874c-a1a2e6a448fa)
-![WhatsApp Image 2023-05-17 at 13 21 00](https://github.com/Maaike0904/connecting-people-ui-stack/assets/112861144/c257e952-0ed6-405c-989a-96db223f2a2e)
+![WhatsApp Image 2023-05-25 at 20 28 02](https://github.com/Maaike0904/connecting-people-ui-stack/assets/112861144/4d2a958c-8419-44f4-9ac9-fc055aa912be)
+![WhatsApp Image 2023-05-25 at 20 28 02](https://github.com/Maaike0904/connecting-people-ui-stack/assets/112861144/64fa7efe-9857-4aa0-a137-3acc2e5af7cf)
 
 
 ## Licentie
